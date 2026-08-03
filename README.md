@@ -20,28 +20,28 @@
   <tr>
     <td><strong>Languages</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=ts,js,html,css,java,dart,bash&theme=dark" height="32"/>
+      <img src="https://skillicons.dev/icons?i=ts,js,html,css,java,dart,bash&theme=dark" height="30"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Frameworks</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,spring&theme=dark" height="32"/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,spring&theme=dark" height="30"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Database</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" height="32"/>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" height="30"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>DevOps</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,firebase,git,github,linux,vscode&theme=dark" height="32"/>
+      <img src="https://skillicons.dev/icons?i=docker,firebase,git,github,linux,vscode&theme=dark" height="30"/>
     </td>
   </tr>
 
@@ -60,13 +60,7 @@
 <h3>My Stats</h3>
 
 <img
-  height="170"
   src="https://streak-stats.demolab.com?user=giovanisantanaa&theme=tokyonight&hide_border=true"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=giovanisantanaa&layout=compact&theme=tokyonight&hide_border=true"
 />
 
 <br><br>
@@ -88,7 +82,7 @@
     srcset="https://raw.githubusercontent.com/giovanisantanaa/giovanisantanaa/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="GitHub contribution snake"
+    alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/giovanisantanaa/giovanisantanaa/output/github-contribution-grid-snake.svg"
   />
 </picture>
