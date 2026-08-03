@@ -63,11 +63,11 @@
 
 <img src="https://streak-stats.demolab.com?user=giovanisantanaa&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+<!-- <br><br> -->
 
-<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=giovanisantanaa&theme=tokyo-night"/>
+<!-- <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=giovanisantanaa&theme=tokyo-night"/> -->
 
-<br><br>
+<!-- <br><br> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giovanisantanaa/giovanisantanaa/output/github-contribution-grid-snake-dark.svg"/>
