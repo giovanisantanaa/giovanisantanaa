@@ -60,24 +60,19 @@
 <h3>My Stats</h3>
 
 <img
-  height="165"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=giovanisantanaa&show_icons=true&theme=tokyonight&hide_border=true"
+  height="170"
+  src="https://streak-stats.demolab.com?user=giovanisantanaa&theme=tokyonight&hide_border=true"
 />
 
 <img
-  height="165"
+  height="170"
   src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=giovanisantanaa&layout=compact&theme=tokyonight&hide_border=true"
 />
 
 <br><br>
 
 <img
-  src="https://streak-stats.demolab.com?user=giovanisantanaa&theme=tokyonight&hide_border=true"
-/>
-
-<br><br>
-
-<img
+  width="900"
   src="https://github-readme-activity-graph.vercel.app/graph?username=giovanisantanaa&theme=tokyo-night"
 />
 
